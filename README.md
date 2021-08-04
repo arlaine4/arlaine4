@@ -18,12 +18,7 @@
 
 ## GitHub infos
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arlaine4&theme=dark&show_icons=true)  
-<a href="https://github.com/arlaine4/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arlaine4&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arlaine4&repo=convoychat" />
-</a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arlaine4)](https://github.com/arlaine4/github-readme-stats)
 
 
 
