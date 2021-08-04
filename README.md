@@ -17,8 +17,7 @@
 [![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/arlaine)](https://github.com/JaeSeoKim/badge42)
 
 ## GitHub infos
-![alt text](https://github-readme-stats.vercel.app/api/top-langs/?username=arlaine4&layout=compact&theme=tokyonight&show_icons=true")  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arlaine4)](https://github.com/arlaine4/github-readme-stats)  
+![alt text](https://github-readme-stats.vercel.app/api/top-langs/?username=arlaine4&layout=compact&theme=tokyonight&show_icons=true") 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arlaine4&theme=dark&show_icons=true)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=arlaine4)](https://github.com/arlaine4/github-readme-stats)
 
