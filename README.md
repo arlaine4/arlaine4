@@ -18,4 +18,5 @@
 
 ## GitHub infos
 ![alt text](https://github-readme-stats.vercel.app/api/top-langs/?username=arlaine4&layout=compact&theme=tokyonight&show_icons=true")  
-![Metrics](https://github.com/my-github-user/arlaine4/blob/master/github-metrics.svg)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arlaine4)](https://github.com/arlaine4/github-readme-stats)
+
