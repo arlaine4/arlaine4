@@ -18,5 +18,7 @@
 
 ## GitHub infos
 ![alt text](https://github-readme-stats.vercel.app/api/top-langs/?username=arlaine4&layout=compact&theme=tokyonight&show_icons=true")  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arlaine4)](https://github.com/arlaine4/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arlaine4)](https://github.com/arlaine4/github-readme-stats)  
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=arlaine4)](https://github.com/arlaine4/github-readme-stats)
 
