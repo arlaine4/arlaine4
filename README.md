@@ -1,16 +1,17 @@
-### Hi there 👋
+# arlaine aka Arthur
+- I'm a 22 years old student at 42 Paris.
+- Studying computer science.
+- I specialize in Data science, I'm in love with Machine Learning and Deep Learning.
 
-<!--
-**arlaine4/arlaine4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Prossional experience
+- Internship I : Thales LAS France ✅
+  * Alghorithm
+  * Created from scratch a transpiler for Tcl/Tk to Python translation
+  * Date : 01/02/2020 to 31/07/2020
+- Internship II : Safran AirCraft Engines 🔜
+  * Data Science
+  * Use Data Science to help make predictions and inferences for turbo reactor pieces production
+  * Date : 01/09/2021 to 28/01/2022
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 42 profile informations
+[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/arlaine)](https://github.com/JaeSeoKim/badge42)
