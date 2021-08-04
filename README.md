@@ -17,7 +17,13 @@
 [![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/arlaine)](https://github.com/JaeSeoKim/badge42)
 
 ## GitHub infos
-![alt text](https://github-readme-stats.vercel.app/api/top-langs/?username=arlaine4&layout=compact&theme=tokyonight&show_icons=true") 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arlaine4&theme=dark&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arlaine4&theme=dark&show_icons=true)  
+<a href="https://github.com/arlaine4/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arlaine4&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arlaine4&repo=convoychat" />
+</a>
+
 
 
