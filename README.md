@@ -18,4 +18,4 @@
 
 ## GitHub infos
 ![alt text](https://github-readme-stats.vercel.app/api/top-langs/?username=arlaine4&layout=compact&theme=tokyonight&show_icons=true")
-<img src="https://metrics.lecoq.io/arlaine4" alt="Github Metrics">
+![alt text]("https://metrics.lecoq.io/arlaine4" alt="Github Metrics")
