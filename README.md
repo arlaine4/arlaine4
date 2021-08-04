@@ -18,4 +18,4 @@
 
 ## GitHub infos
 ![alt text](https://github-readme-stats.vercel.app/api/top-langs/?username=arlaine4&layout=compact&theme=tokyonight&show_icons=true")  
-![Metrics](https://github.com/my-github-user/my-github-user/blob/master/github-metrics.svg)
+![Metrics](https://github.com/my-github-user/arlaine4/blob/master/github-metrics.svg)
