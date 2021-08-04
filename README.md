@@ -2,12 +2,13 @@
 - I'm a 22 years old student at 42 Paris.
 - Studying computer science.
 - I specialize in Data science, I'm in love with Machine Learning and Deep Learning.
+- Python is my favorite programming language. 
 
 # Prossional experience
 - Internship I : Thales LAS France ✅
-  * Alghorithm
+  * Algorithm
   * Created from scratch a transpiler for Tcl/Tk to Python translation
-  * Date : 01/02/2020 to 31/07/2020
+  * Date : 01/02/2020 to 31/07/2020. 
 - Internship II : Safran AirCraft Engines 🔜
   * Data Science
   * Use Data Science to help make predictions and inferences for turbo reactor pieces production
@@ -18,7 +19,6 @@
 
 ## GitHub infos
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arlaine4&theme=dark&show_icons=true)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arlaine4)](https://github.com/arlaine4/github-readme-stats)
 
 
 
