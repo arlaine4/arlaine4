@@ -4,7 +4,7 @@
 - I specialize in Data science, I'm in love with Machine Learning and Deep Learning.
 - Python is my favorite programming language. 
 
-# Prossional experience
+# Professional experience
 - Internship I : Thales LAS France ✅
   * Algorithm
   * Created from scratch a transpiler for Tcl/Tk to Python translation
