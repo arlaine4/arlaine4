@@ -1,5 +1,5 @@
 # arlaine aka Arthur
-- I'm a 22 years old student at 42 Paris.
+- I'm a 22 years old student at 42 Paris (4th year).
 - Studying computer science.
 - I specialize in Data science, I'm in love with Machine Learning and Deep Learning.
 - Python is my favorite programming language. 
