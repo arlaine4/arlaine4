@@ -15,7 +15,7 @@
   * Date : 01/09/2021 to 28/02/2022
 
 ## 42 profile informations
-[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/arlaine)](https://github.com/JaeSeoKim/badge42)
+[![arlaine's 42 stats](https://badge42.vercel.app/api/v2/cl1lznj5t003509joi9mdd7t1/stats?cursusId=21&coalitionId=1)](https://github.com/JaeSeoKim/badge42)
 
 ## GitHub infos
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arlaine4&theme=dark&show_icons=true)  
